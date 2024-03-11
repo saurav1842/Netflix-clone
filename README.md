@@ -2,6 +2,8 @@
 
 website link:- https://saurav1842.github.io/Netflix-clone/
 
+![Screenshot 2024-03-11 185036](https://github.com/saurav1842/Netflix-clone/assets/115726119/c094d41f-fdf8-43de-b4f5-9ec27d51c20a)
+
 
 ## Overview:-
 This project is a simple Netflix clone created using HTML and CSS. The purpose of this project is to demonstrate basic web development skills and showcase the ability to replicate the user interface of a popular streaming service like Netflix.
