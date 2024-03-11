@@ -7,7 +7,7 @@ website link:- https://saurav1842.github.io/Netflix-clone/
 This project is a simple Netflix clone created using HTML and CSS. The purpose of this project is to demonstrate basic web development skills and showcase the ability to replicate the user interface of a popular streaming service like Netflix.
 
 ## Features:-
-Homepage Layout: The project includes a homepage layout similar to Netflix, featuring a header, content section, and a footer.
+### Homepage Layout: The project includes a homepage layout similar to Netflix, featuring a header, content section, and a footer.
 
 Movie Thumbnails:  Movie thumbnails are displayed in a grid format, resembling the Netflix user interface.
 
