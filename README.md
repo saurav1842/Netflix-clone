@@ -1,4 +1,4 @@
-Netflix Clone Project
+# Netflix Clone Project
 
 website link:- https://saurav1842.github.io/Netflix-clone/
 
