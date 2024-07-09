@@ -1,6 +1,6 @@
 # Netflix Clone
 
-website link:- https://saurav1842.github.io/Netflix-clone/
+Website link:- https://saurav1842.github.io/Netflix-clone/
 
 ![Screenshot 2024-03-11 185036](https://github.com/saurav1842/Netflix-clone/assets/115726119/c094d41f-fdf8-43de-b4f5-9ec27d51c20a)
 
